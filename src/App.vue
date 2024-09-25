@@ -10,7 +10,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <style>
 .vite-app {
-  background: #680cf4;
-  border: 2px solid #3f0b93;
+  background: #f8d8d8;
+  border: 2px solid #ea4335;
 }
 </style>

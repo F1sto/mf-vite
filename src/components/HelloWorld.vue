@@ -2,7 +2,6 @@
   <div class="hello-wrapper">
     <h1>{{ msg }}</h1>
     <button @click="count++" class="count-btn">count is: {{ count }}</button>
-    <p>Edit <code>components/HelloWorld.vue</code> to test hot module replacement.</p>
   </div>
 </template>
 
@@ -25,6 +24,7 @@ export default {
   display: flex;
   align-items: center;
   flex-flow: column;
+  padding: 10px 0;
 
   .count-btn {
     width: fit-content;
