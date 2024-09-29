@@ -1,3 +1,5 @@
 # Vite + Vue
 
-`npm run start`
+`npm run build`
+
+`npm run prevew`

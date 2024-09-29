@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "start": "vite",
-    "prod": "vite preview --port 9001",
+    "prevew": "vite preview --port 9001",
     "build": "vite build"
   },
   "dependencies": {
