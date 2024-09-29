@@ -1,5 +1,14 @@
 # Vite + Vue
 
-`npm run build`
+## Project setup
+```
+yarn install
+```
 
-`npm run prevew`
+```
+yarn build
+```
+
+```
+yarn prevew
+```
